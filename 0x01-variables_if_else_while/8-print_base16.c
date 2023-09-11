@@ -16,7 +16,7 @@ putchar(Nu);
 }
 for (Ch = 'a'; Ch <= 'f'; Ch++)
 {
-putchar(ch);
+putchar(Ch);
 }
 putchar('\n');
 return (0);
