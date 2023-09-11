@@ -13,4 +13,4 @@ gcc -s	-> this option (implemented in (t-2))allow you to make (.s) file with is 
 
 gcc -s -masm=intel	-> this option add to the above option another property with is spcifying the type of syntax that the assembly source code will be generated with. the defualt syntax for the compiler GCC is AT&T syntax and in this option we are going to generate an assembly with [intel syntax].
 
-
+write(,"",)	-> this function like printf and puts funtions. It used to print certain comments and messages it takes three arguments 1-is the in our case the standard error which represents by [2] 2- the printed message itself 3- the mumber of characters of the printed message.
