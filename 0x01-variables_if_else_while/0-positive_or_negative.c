@@ -21,7 +21,7 @@ if (n > 0)
 /*for the negative message.*/
 else if (n < 0)
 {
-	printf("%d is negatice\n", n);
+	printf("%d is negative\n", n);
 }
 /*for anything else which is the 0*/
 else
