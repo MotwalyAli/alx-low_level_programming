@@ -1,1 +1,14 @@
+
+                                        Hello-World Readme
+
 this readme file is made for the 0x00-hello_world project
+
+gcc	-> this command used to compile the .c file so the machine can excecute the source code inside the .c file the [gcc command] comes with many options like.
+ 
+gcc -E	-> this command will make a preprocessored file which mean it did not compile the file but after this command the file is just preprocessed.
+
+gcc -c	-> this option empilemented in (t-1) with the [gcc command] give you the ability to make a compiled file without link.
+
+gcc -s	-> this option (implemented in (t-2))allow you to make (.s) file with is the a file with a assembly source code, hens the normal output file for the compilation process is (.o)file.
+
+
