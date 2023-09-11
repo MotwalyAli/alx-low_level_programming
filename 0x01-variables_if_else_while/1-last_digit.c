@@ -12,7 +12,7 @@ int n;
 
 srand(time(0));
 n = rand() - RAND_MAX / 2;
-LastD = n % 10;
+int LastD = n % 10;
 /*I will use if elseif else */
 /*the first if part*/
 if (LastD > 5)
