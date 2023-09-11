@@ -12,7 +12,7 @@ int Nu;
 for (Nu = 0; Nu <= 9; Nu++)
 {
 putchar((Nu % 10) + '0');
-if (num == 9)
+if (Nu == 9)
 continue;
 
 putchar(',');
