@@ -15,6 +15,6 @@ putchar(letter);
 /*increasing letters from a to z*/
 letter++;
 }
-putchar(\n);
+putchar('\n');
 return (0);
 }
