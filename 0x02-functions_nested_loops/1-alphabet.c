@@ -4,7 +4,7 @@
  * this program prints lowercase alphabets
  * Return: 0
 */
-void print-alphabet(void)
+void print_alphabet(void)
 {
 char letter = 'a';
 /*looping untill reaching z letter*/
