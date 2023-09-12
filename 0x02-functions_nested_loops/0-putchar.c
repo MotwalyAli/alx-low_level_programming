@@ -1,10 +1,10 @@
-#include "main.h"
+# include "main.h"
 
 /**
- *main - this is key to open our program 
- *this program is to print _putchar without the use of stdlib funtions
- *Return: 0
- */
+ * main - this is the main funcition
+ * in this program we are not going to use printf or puts
+ * Return: 0
+*/
 int main(void)
 {
 
