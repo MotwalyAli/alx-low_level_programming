@@ -1,9 +1,10 @@
 #include "main.h"
-/*
- * print_alphabet - prints alphabet importat thing
- * this program prints lowercase alphabets
- * Return: 0
-*/
+/**
+ * print_alphabet - prints alphabet
+ *
+ * Return: always 0;
+ *
+ */
 void print_alphabet(void)
 {
 char letter = 'a';
