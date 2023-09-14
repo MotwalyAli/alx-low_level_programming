@@ -8,8 +8,9 @@ int main(void)
 {
 /*Variable to store the sumation of the multibules of 3 and 5*/
 int sum = 0;
+int n;
 
-for (int n = 1; n < 1024; n++)
+for (n = 1; n < 1024; n++)
 {
 	if (n % 3 == 0 || n % 5 == 0)
 	{
