@@ -4,4 +4,4 @@ int _isdigit(int c);
 
 int mul(int a, int b);
 
-oid print_numbers(void);
+int print_numbers(void);
