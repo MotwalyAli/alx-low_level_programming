@@ -4,8 +4,9 @@
  * _strlen - this function to change the value of the int pointed to
  *
  * @s: is the pointer pointing to the value of s
- * return: the num of string charcters
-*/
+ *
+ * return: for this time return length
+ */
 int _strlen(char *s)
 {
 int i;
