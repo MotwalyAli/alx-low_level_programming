@@ -1,11 +1,10 @@
 #include "main.h"
 
 /**
- * _strlen - this function to change the value of the int pointed to
+ * _strlen - this function for returning the length of a string
  *
- * @s: is the pointer pointing to the value of s
- *
- * return: for this time return length
+ * @s: is the pointer with point to the string
+ * Return: returns the length
  */
 int _strlen(char *s)
 {
