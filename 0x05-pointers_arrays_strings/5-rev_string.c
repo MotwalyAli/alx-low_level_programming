@@ -1,9 +1,10 @@
 #include "main.h"
 #include "2-strlen.c"
+
 /**
  * rev_string - main function to reverse a string
  *
- * @s: the string which is going to be printed reversly 
+ * @s: the string which is going to be printed reversly
  */
 void rev_string(char *s)
 {
