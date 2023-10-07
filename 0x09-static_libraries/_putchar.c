@@ -1,15 +1,13 @@
 #include <unistd.h>
 
 /**
- *  * _putchar - writes the character c to stdout
+ * _putchar - is used to write a single char to the stdout.
  *
- *   * @c: The character to print
+ * @c: is the character to be written.
  *
- *    *
+ * Return: the function write(), if c is present return c
+ * if error return -1.
  *
- *     * Return: On success 1.
- *
- *      * On error, -1 is returned, and errno is set appropriately
  */
 
 int _putchar(char c)
