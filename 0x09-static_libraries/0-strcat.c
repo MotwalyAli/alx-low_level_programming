@@ -1,10 +1,11 @@
 /**
- * _strlen - is used to know the length of the string provided with the pointer
- * @s: is a pointer having the address of the string s
+ * _strcat - is used to concatinate a string from src to the string in dest
+ * @dest: is pointing to the destenation where the copied string will be paste
+ * @src: is pointing to the location of the string to be concatination.
  *
- * Return: the result of the function.
+ * Return: the dest string with the new modifications.
  */
-int _strlen(char *s)
+char *_strcat(char *dest, char *src)
 {
 
 }
